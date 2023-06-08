@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 500 hello
+chmod 100 0x01-shell_permissions/4-empty
