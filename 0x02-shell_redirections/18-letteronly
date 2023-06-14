@@ -1,2 +1,2 @@
 #!/bin/bash
-sort -bd /etc/ssh/sshd_config
+sort --dictionary-order /etc/ssh/sshd_config
