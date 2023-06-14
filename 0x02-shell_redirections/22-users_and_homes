@@ -1,2 +1,2 @@
 #!/bin/bash
-cat /etc/passwd | ls --author -dl
+cat /etc/passwd
